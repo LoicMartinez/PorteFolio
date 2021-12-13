@@ -36,7 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjetResponsive" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -54,6 +54,7 @@
       <updated>1639382019202</updated>
       <workItem from="1639382020342" duration="15768000" />
       <workItem from="1639402345872" duration="8847000" />
+      <workItem from="1639411236845" duration="131000" />
     </task>
     <task id="LOCAL-00001" summary="Responsive PHP">
       <created>1639395088579</created>
@@ -69,7 +70,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639395159890</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Porte Folio">
+      <created>1639411332773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639411332773</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +97,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Responsive PHP" />
-    <option name="LAST_COMMIT_MESSAGE" value="Responsive PHP" />
+    <MESSAGE value="Porte Folio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Porte Folio" />
   </component>
 </project>
