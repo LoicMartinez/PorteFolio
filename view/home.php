@@ -100,50 +100,66 @@
                 <div class="d-flex justify-content-center col-md-2 offset-md-2 col-12">
                     <p>JS REACT</p>
                 </div>
-                <div class="progress col-md-6 col-12 mb-sm-3">
-                    <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                <div class="col-md-6 col-12">
+                    <div class="progress mb-sm-3">
+                        <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                    </div>
                 </div>
                 <div class="d-flex justify-content-center col-md-2 offset-md-2 col-12">
                     <p>C++</p>
                 </div>
-                <div class="progress col-md-6 col-12 mb-sm-3">
-                    <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                <div class="col-md-6 col-12">
+                    <div class="progress mb-sm-3">
+                        <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                    </div>
                 </div>
                 <div class="d-flex justify-content-center col-md-2 offset-md-2 col-12">
                     <p>Python</p>
                 </div>
-                <div class="progress col-md-6 col-12 mb-sm-3">
-                    <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                <div class="col-md-6 col-12">
+                    <div class="progress mb-sm-3">
+                        <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                    </div>
                 </div>
                 <div class="d-flex justify-content-center col-md-2 offset-md-2 col-12">
                     <p>HTML</p>
                 </div>
-                <div class="progress col-md-6 col-12 mb-sm-3">
-                    <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
+                <div class="col-md-6 col-12">
+                    <div class="progress mb-sm-3">
+                        <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60%</div>
+                    </div>
                 </div>
                 <div class="d-flex justify-content-center col-md-2 offset-md-2 col-12">
                     <p>PHP</p>
                 </div>
-                <div class="progress col-md-6 col-12 mb-sm-3">
-                    <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60</div>
+                <div class="col-md-6 col-12">
+                    <div class="progress mb-sm-3">
+                        <div class="progress-bar" role="progressbar" style="width: 60%;" aria-valuenow="60" aria-valuemin="0" aria-valuemax="100">60</div>
+                    </div>
                 </div>
                 <div class="d-flex justify-content-center col-md-2 offset-md-2 col-12">
                     <p>Arduino</p>
                 </div>
-                <div class="progress col-md-6 col-12 mb-sm-3">
-                    <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                <div class="col-md-6 col-12">
+                    <div class="progress mb-sm-3">
+                        <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                    </div>
                 </div>
                 <div class="d-flex justify-content-center col-md-2 offset-md-2 col-12">
                     <p>SQL</p>
                 </div>
-                <div class="progress col-md-6 col-12 mb-sm-3">
-                    <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                <div class="col-md-6 col-12">
+                    <div class="progress mb-sm-3">
+                        <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                    </div>
                 </div>
                 <div class="d-flex justify-content-center col-md-2 offset-md-2 col-12">
                     <p>Réseaux</p>
                 </div>
-                <div class="progress col-md-6 col-12 mb-sm-3">
-                    <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                <div class="col-md-6 col-12">
+                    <div class="progress mb-sm-3">
+                        <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100">80%</div>
+                    </div>
                 </div>
             </div>
         </div>

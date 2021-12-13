@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef33ff62-0569-4b24-96da-023b4dbd2020" name="Changes" comment="Porte Folio" />
+    <list default="true" id="ef33ff62-0569-4b24-96da-023b4dbd2020" name="Changes" comment="Porte Folio">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/home.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,6 +60,7 @@
       <workItem from="1639382020342" duration="15768000" />
       <workItem from="1639402345872" duration="8847000" />
       <workItem from="1639411236845" duration="131000" />
+      <workItem from="1639411379954" duration="1502000" />
     </task>
     <task id="LOCAL-00001" summary="Responsive PHP">
       <created>1639395088579</created>
@@ -77,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639411332773</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Porte Folio">
+      <created>1639411431061</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639411431061</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

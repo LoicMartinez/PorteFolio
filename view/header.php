@@ -10,7 +10,7 @@
     </head>
     <body>
         <header>
-            <nav class="navbar navbar-expand-lg navbar-light bg-secondary">
+            <nav class="navbar navbar-expand-lg navbar-light bg-secondary  fixed-top">
                     <div class="d-flex justify-content-center col-sm-3 col-12">
                         <a href="?route=home" class="text-decoration-none">
                             <h5>PRESENTATION</h5>

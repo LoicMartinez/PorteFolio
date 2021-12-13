@@ -1,34 +1,42 @@
-<div class="row" style="padding: 20px">
-    <div class="d-flex justify-content-center">
-        <h5>Me contacter</h5>
-    </div>
-    <div class="text-center">
-        <form>
-            <div class="mb-3">
-                <label for="Email" class="form-label">Votre adresse email</label>
-                <input type="email" class="form-control" id="Email">
-            </div>
-            <div class="mb-3">
-                <label for="Password" class="form-label">Votre message</label>
-                <input type="password" class="form-control" id="Password">
-            </div>
-            <button type="button" class="btn btn-primary col-4" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                Envoyer
-            </button>
-        </form>
+<div class="row">
+    <div class="col-md-8 offset-md-2" id="form_container">
+        <h2>Me contacter</h2>
+        <form method="post" id="sendEmail">
 
-    </div>
-    <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="exampleModalLabel">Nous contacter</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    Votre message a bien été envoyé !
+            <div class="row">
+                <div class="col-sm-12 form-group">
+                    <label for="message">
+                        Message:</label>
+                    <textarea class="form-control" name="message" id="message" maxlength="6000" rows="7"></textarea>
                 </div>
             </div>
+            <div class="row">
+                <div class="col-sm-6 form-group">
+                    <label for="name">
+                        Votre nom:</label>
+                    <input type="text" class="form-control" id="name" name="name" required>
+                </div>
+                <div class="col-sm-6 form-group">
+                    <label for="email">
+                        Email:</label>
+                    <input type="email" class="form-control" id="email" name="email" required>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-sm-12 form-group">
+                    <button type="submit" class="btn btn-lg btn-default pull-right" >Envoyer →</button>
+                </div>
+            </div>
+
+        </form>
+        <div id="success_message" style="width:100%; height:100%; display:none; ">
+            <h3>Votre message a bien été envoyé !</h3>
+        </div>
+        <div id="error_message"
+             style="width:100%; height:100%; display:none; ">
+            <h3>Erreur</h3>
+            Désolé, une erreur c'est produite.
+
         </div>
     </div>
 </div>
