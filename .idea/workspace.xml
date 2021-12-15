@@ -4,9 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef33ff62-0569-4b24-96da-023b4dbd2020" name="Changes" comment="Porte Folio">
+    <list default="true" id="ef33ff62-0569-4b24-96da-023b4dbd2020" name="Changes" comment="fix progress bar">
+      <change afterPath="$PROJECT_DIR$/controller/ProjetController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/controller/TableauController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/Veinsound.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/servicecom.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/image/xefi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/projet.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/view/tableau.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/contact.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/contact.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/bootstrap-5.0.2-dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/route/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/route/route.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/view/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/view/home.php" afterDir="false" />
     </list>
@@ -41,13 +49,18 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/controller" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\PorteFolio\controller" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,7 +73,8 @@
       <workItem from="1639382020342" duration="15768000" />
       <workItem from="1639402345872" duration="8847000" />
       <workItem from="1639411236845" duration="131000" />
-      <workItem from="1639411379954" duration="1502000" />
+      <workItem from="1639411379954" duration="1625000" />
+      <workItem from="1639579554900" duration="5171000" />
     </task>
     <task id="LOCAL-00001" summary="Responsive PHP">
       <created>1639395088579</created>
@@ -90,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1639411431061</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="fix progress bar">
+      <created>1639413000677</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639413000677</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +132,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Responsive PHP" />
     <MESSAGE value="Porte Folio" />
-    <option name="LAST_COMMIT_MESSAGE" value="Porte Folio" />
+    <MESSAGE value="fix progress bar" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix progress bar" />
   </component>
 </project>

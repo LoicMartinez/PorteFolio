@@ -35,7 +35,7 @@
             </div>
             <div class="row mb-5">
                 <h2 class="d-flex justify-content-center mb-4">EXPÉRIENCE PROFESSIONNELLE</h2>
-                <ul class="d-flex justify-content-center col-8 offset-2 list-group list-group-horizontal-sm list-inline">
+                <ul class="d-flex justify-content-center col-8 offset-2 list-group list-group-horizontal-md list-inline">
                     <li>
                         <div class="mb-4">
                             <h5>Alternance XEFI - développement d'application REACT</h5>
@@ -70,7 +70,7 @@
             </div>
             <div class="row mb-5">
                 <h2 class="d-flex justify-content-center mb-4">FORMATION</h2>
-                <ul class="d-flex justify-content-center col-8 offset-2 list-group list-group-horizontal-sm list-inline">
+                <ul class="d-flex justify-content-center col-8 offset-2 list-group list-group-horizontal-md list-inline">
                     <li>
                         <div class="mb-4">
                             <h5>EPSI</h5>

@@ -9,21 +9,35 @@
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     </head>
     <body>
-        <header>
-            <nav class="navbar navbar-expand-lg navbar-light bg-secondary  fixed-top">
-                    <div class="d-flex justify-content-center col-sm-3 col-12">
-                        <a href="?route=home" class="text-decoration-none">
-                            <h5>PRESENTATION</h5>
-                        </a>
-                    </div>
-                    <div class="d-flex justify-content-center col-sm-3 col-12">
-                        <a href="?route=contact" class="text-decoration-none">
-                            <h5>CONTACT</h5>
-                        </a>
-                    </div>
-                    <div class="d-flex justify-content-center col-sm-3 col-12">
-                            <h5>Projet</h5>
-                    </div>
+        <header class="">
+            <nav class="navbar navbar-expand-md navbar-light bg-secondary  navbar-fixed-top navbar-toggler">
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarNav">
+                    <ul class="navbar-nav">
+                        <li class="nav-item active">
+                            <a href="?route=home" class="nav-link ">
+                                <h5>PRESENTATION</h5>
+                            </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a href="?route=projet" class="nav-link ">
+                                <h5>PROJET</h5>
+                            </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a href="?route=tableau" class="nav-link ">
+                                <h5>TABLEAU</h5>
+                            </a>
+                        </li>
+                        <li class="nav-item active">
+                            <a href="?route=contact" class="nav-link ">
+                                <h5>CONTACT</h5>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
             </nav>
         </header>
         <div class="container">
